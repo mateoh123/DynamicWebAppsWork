@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 10px;
+  background-color: #48b2ff;
+}
+
+:root {
+  --c-blue: #48b2ff;
+  --ff-acme: "Acme", sans-serif;
+}
+
+.recipeWrapper {
+  border: #bfe4ff 5px solid;
+  background-color: #bfe4ff;
+  margin: 1rem;
+}
