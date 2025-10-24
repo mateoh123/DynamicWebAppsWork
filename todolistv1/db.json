@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "title": "drink a lot",
+      "id": 1
+    },
+    {
+      "title": "get happy",
+      "id": 2
+    }
+  ]
+}
