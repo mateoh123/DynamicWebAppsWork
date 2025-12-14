@@ -1,0 +1,304 @@
+{
+  "todos": [],
+  "outfits": [
+    {
+      "name": "Outfit 12/9/2025 3:24:37 AM",
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1765268676/or9txa5jxdohatwtrx0x.png",
+      "items": [
+        2,
+        3
+      ],
+      "createdAt": "2025-12-09T08:24:37.212Z",
+      "id": 3
+    },
+    {
+      "name": "Outfit 12/9/2025 9:11:12 AM",
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1765289470/mrcbd5mjw6nntf6pwwka.png",
+      "items": [
+        2
+      ],
+      "createdAt": "2025-12-09T14:11:12.062Z",
+      "id": 4
+    },
+    {
+      "name": "Outfit 12/11/2025 5:53:11 PM",
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1765493591/g2l57atdhra1o7kdlgqe.png",
+      "items": [
+        4
+      ],
+      "createdAt": "2025-12-11T22:53:11.885Z",
+      "id": 5
+    }
+  ],
+  "clothes": [
+    {
+      "clothingtype": "bags",
+      "color": [
+        "purple"
+      ],
+      "season": [
+        "fall"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "forever21",
+      "size": "oneSize",
+      "material": [
+        "cotton"
+      ],
+      "pattern": [
+        "plaid"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764214269/xjhkiewsoktd53ck5pyj.webp",
+      "id": 1
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "red"
+      ],
+      "season": [
+        "winter"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "americanEagle",
+      "size": "small",
+      "material": [
+        "denim"
+      ],
+      "pattern": [
+        "camouflage"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764221440/a8efsuk9njrqmnmi0w2g.webp",
+      "id": 2
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "purple"
+      ],
+      "season": [
+        "summer"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "bananaRepublic",
+      "size": "small",
+      "material": [
+        "cotton"
+      ],
+      "pattern": [
+        "camouflage"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764263584/dywjybbyoczq9yxeoi5p.webp",
+      "id": 3
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "green"
+      ],
+      "season": [
+        "fall"
+      ],
+      "occasion": [
+        "weekend"
+      ],
+      "brand": "gap",
+      "size": "oneSize",
+      "material": [
+        "leather"
+      ],
+      "pattern": [
+        "floral"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1764264188/zt7hnzicle4oiveuia2e.jpg?_a=DATAiZAAZAA0",
+      "id": 4
+    },
+    {
+      "clothingtype": "dresses",
+      "color": [
+        "red",
+        "orange"
+      ],
+      "season": [
+        "winter",
+        "summer"
+      ],
+      "occasion": [
+        "specialoccasion",
+        "weekend"
+      ],
+      "brand": "americanEagle",
+      "size": "small",
+      "material": [
+        "cashmere",
+        "leather"
+      ],
+      "pattern": [
+        "camouflage",
+        "floral"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1764274694/esgqpuqjxvoidee09ju9.jpg?_a=DATAiZAAZAA0",
+      "id": 5
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "blue",
+        "orange"
+      ],
+      "season": [
+        "winter",
+        "fall"
+      ],
+      "occasion": [
+        "specialoccasion",
+        "nightOut"
+      ],
+      "brand": "forever21",
+      "size": "oneSize",
+      "material": [
+        "cotton",
+        "denim"
+      ],
+      "pattern": [
+        "floral",
+        "camouflage"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1764274729/wtgibph3nkyqvcuzetjc.jpg?_a=DATAiZAAZAA0",
+      "id": 6
+    },
+    {
+      "clothingtype": "dresses",
+      "color": [
+        "purple"
+      ],
+      "season": [
+        "fall"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "americanEagle",
+      "size": "small",
+      "material": [
+        "cashmere"
+      ],
+      "pattern": [
+        "floral"
+      ],
+      "image": "",
+      "id": 7
+    },
+    {
+      "clothingtype": "dresses",
+      "color": [],
+      "season": [],
+      "occasion": [],
+      "brand": "americanEagle",
+      "size": "",
+      "material": [],
+      "pattern": [],
+      "image": "",
+      "id": 8
+    },
+    {
+      "clothingtype": "bags",
+      "color": [
+        "blue"
+      ],
+      "season": [
+        "fall"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "americanEagle",
+      "size": "medium",
+      "material": [
+        "cashmere"
+      ],
+      "pattern": [
+        "camouflage"
+      ],
+      "image": "",
+      "id": 9
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "slate",
+        "red"
+      ],
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "occasion": [
+        "weekend"
+      ],
+      "brand": "h&m",
+      "size": "medium",
+      "material": [
+        "cotton"
+      ],
+      "pattern": [
+        "solid"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1765289348/tt41grnvt4l2zgxnhl15.jpg?_a=DATAiZAAZAA0",
+      "id": 10
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "slate",
+        "red"
+      ],
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "occasion": [
+        "weekend"
+      ],
+      "brand": "h&m",
+      "size": "medium",
+      "material": [
+        "cotton"
+      ],
+      "pattern": [
+        "solid"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1765289351/to2k8e80fvtrx3toxpdh.jpg?_a=DATAiZAAZAA0",
+      "id": 11
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "slate",
+        "red"
+      ],
+      "season": [
+        "spring"
+      ],
+      "occasion": [
+        "weekend"
+      ],
+      "brand": "americanEagle",
+      "size": "medium",
+      "material": [
+        "linen"
+      ],
+      "pattern": [
+        "plaid"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1765493547/jtmzr8rft7uo0iagf0o4.jpg?_a=DATAiZAAZAA0",
+      "id": 12
+    }
+  ]
+}

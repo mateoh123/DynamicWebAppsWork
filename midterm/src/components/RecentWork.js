@@ -36,7 +36,7 @@ const RecentWork = () => {
           date="August - 24 - 2024"
         />
       </div>
-      <h1 className="text-8xl font-bold flex justify-center">RECENT WORK</h1>
+      <h1 className="text-8xl font-bold flex justify-left pl-5">RECENT WORK</h1>
       <WorkModal
         workTitle="20 To 10"
         isOpen={openModalId === "twentytotenModal"}
